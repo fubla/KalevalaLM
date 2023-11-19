@@ -54,45 +54,67 @@ and
 
 Sample:
 ```
-Kun linnun, maariolan,
-saa mukahan-alainen Jumalan,
-verkaltoin nuoren neitoin:
-puhme joukasia kaimohon,
-havaturpoimi Tuonen mustahan,
-lähängen saattomahan?"
-Mit' on lieto Lemminkäinen.
-Itse kuun lausui,
-itse vanha rylyn noian:
-"Saat saatanehe, soita,
-liekunne surmaiset tieriset?"
-Hiien häytänpä surolikomahan,
-kuihä tieto Lemminkäinen
-istarsan Antero pojan pajahan
-juoa tappeloita;
-konsa soitasi;
-etkävältä kolmen on sopuansa,
-äsäänti kanteloita;
-isutu kuullista kaheksi,
-siihen Pohjan kuolen.
-Itse seppo Ilmarinen
-nosta arvelee, tuon tuon merellot.
-Kullervo, Kalervon poika,
-vasistoi siuvoa Kalervon,
-tuosta alemastahan:
-"Ei toinen tehtohon poika,
-lähtoa ukahan kultaturkkahan
-päähän utuisen!
-Untamo suku-ikuinen:
-"Miks'Kysyvä minä
-mutkan makohon jälksehen;
-nauralle jään sisähän unehen,
-vähäärän suuren laukin,
-elinajan kannasjollehen,
-siellen meren juottihe,
-leukan kypärmehen,
-leuo'ito nuoren juuren.
-Itse lentälehen itkselle,
-sattini itse tietäjän.
+"Ota korjama mansikota pitu,
+kai ilman nuoren vännitäjät,
+kyestä lienotiset!
+Tee täällä tippoa,
+attehet näähän saata,
+ei kultainen kainen
+ennen käättyä äänen,
+rakehille turme'ille lepehiksi,
+hukkujoka lajuksi,
+oluoret nuori näkemiä,
+hämän kaunihistä,
+ajoi suun eläiltä!
+"Hyvät sinä parempia,
+nälkä minua venehen,
+taivustan solmman,
+josin rauan minun alla näkevi,
+laske pahoin pääiveä."
+Louhi, tuota tunsi, tuo sanoiksi virkki:
+"Mehilmäinen, itse, pitkin ja!
+Tore siellut laulu,
+Lemmon sinulta pääni
+pienet suotta juotamatta,
+otipuvon juoteli,
+kauleppyräpasehen sysämpehät,
+pää oli palkojasta parekkelästä,
+päällä päiväsi polven,
+jäisen joukkuhunun juoksi.
+"Mene en huasi sukkulehen,
+su laulle jaloahensa
+Hiien rannan rupele,
+yhen pituo'ille,
+puisivet juoa riehet,
+Ain miehet mointa juomaltani,
+oikki uut terverehet,
+vasellos vallan."
+Louhi, akka eikki lapsi,
+hursipi tuotakoiksi,
+vammi hauolle helissansa.
+Kaaloin, niin kertoelinki
+alla pahoilla mielin,
+perin menevyränsä.
+Sanan virkkoi, noin nimesi:
+"Lauloi minulle kuolle,
+niin parempi minunen etehen,
+suovan ei sukkua,
+kaikki tyttöä vaimo?"
+Laski lieto Lemminkäinen:
+"Jos ei se sauoma,
+souta luotiminen pursi,
+niillä toista venehen,
+impyhän ulvahan."
+Toivi siivatki sanoa;
+sanan virkkoi, noin nimesi:
+"Akka ume, et lienet laulamme,
+parempi laulan lepimenki
+paremmin poisijalta sisujemme."
+Vaka vanha Väinämöinen
+sanan virkkoi, noin nimesi:
+"Voi minosta toisi, tuleltani
+tietämä päivällä,
+kulkevi jalkojanlainen!
 ```
 
 ## Usage
