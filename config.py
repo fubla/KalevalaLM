@@ -2,7 +2,7 @@
 block_size = 256  # max context length
 batch_size = 64
 max_iters = 5000
-eval_interval = 500
+eval_interval = 200
 lr = 1e-4
 device = 'cuda'
 eval_iters = 200
