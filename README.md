@@ -119,11 +119,18 @@ kulkevi jalkojanlainen!
 
 ## Usage
 ### Generate
+Generate pseudo-Kalevala poetry from a model file:
 ```
-python model.py [model-file] [--tokenizer=char|tiktoken]
+python model.py [model-file] [--tokenizer=char|tiktoken] [--text=string]
 ```
-
+where `model-file` is the path to the model file, `tokenizer` is the tokenizer used to train the model and `text` 
+is the text to generate from. If `text` is not provided, the model will generate a random text.
 ## Training
+Train a model from a training file:
 ```
 python train.py [training-file] [output-model-file] [--tokenizer=char|tiktoken] [--stop-early-steps]
 ```
+where `training-file` is the path to the training file, `output-model-file` is the path to the output model file,
+`tokenizer` is the tokenizer used to train the model and `stop-early-steps` is the number of steps to wait for
+validation loss to improve before stopping the training. If `stop-early-steps` is not provided, the training will
+not stop early.

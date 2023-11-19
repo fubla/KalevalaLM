@@ -8,6 +8,7 @@ def main():
     parser.add_argument('filename', help='file to load model from', type=str)
     parser.add_argument('--tokenizer', help='tokenizer to use: \'char\' or \'tiktoken\' ', type=str, default='char')
     parser.add_argument('--max_length', help='maximum length of generated text', type=int, default=500)
+    parser.add_argument('--text', help='initial text to start generating from', type=str, default="")
 
     args = parser.parse_args()
 
@@ -32,7 +33,9 @@ def main():
     m = model.to(device)
     print(sum(p.numel() for p in model.parameters()) / 1e6, "M parameters")
 
-    context = torch.zeros((1, 1), dtype=torch.long, device=device)
+    #context = torch.zeros((1, 1), dtype=torch.long, device=device)
+    context = torch.tensor(tokenizer.encode(args.text), dtype=torch.long, device=device).unsqueeze(0)
+    print(context.shape)
     data = tokenizer.decode(m.generate(context, max_new_tokens=1500)[0].tolist())
     print(data)
 
